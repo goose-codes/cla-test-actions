@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "goose-codes-2",
+      "id": 170117986,
+      "comment_id": 2118025006,
+      "created_at": "2024-05-17T17:04:25Z",
+      "repoId": 802150074,
+      "pullRequestNo": 2
+    }
+  ]
 }
